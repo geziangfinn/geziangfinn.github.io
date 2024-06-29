@@ -12,7 +12,7 @@ title                    : "Ge Ziang (葛梓昂)"
 title_separator          : "-"
 name                     : &name "Ge Ziang (葛梓昂)"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://geziangfinn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "geziangfinn/geziangfinn.github.io"
 
